@@ -10,11 +10,7 @@
 
  echo "下载部署包..."
 
- curl -fsSL
-
- https://raw.githubusercontent.com/robot0819/jt/main/mediainfo-deploy.zip -o
-
- /tmp/mediainfo-deploy.zip
+ curl -fsSL https://raw.githubusercontent.com/robot0819/mediainfo/main/mediainfo-deploy.zip -o /tmp/mediainfo-deploy.zip
 
 
 
